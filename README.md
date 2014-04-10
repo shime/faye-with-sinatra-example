@@ -1,5 +1,7 @@
 # Faye with Sinatra example
 
+Get started with using [Faye](http://faye.jcoglan.com/) in [Sinatra](http://www.sinatrarb.com/) apps.
+
 ## Installation
 
 Prepare environment with
